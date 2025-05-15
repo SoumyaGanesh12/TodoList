@@ -29,7 +29,6 @@ This is a responsive and functional To-Do List application built using **React**
 
 ```bash
 git clone https://github.com/SoumyaGanesh12/TodoList.git
-cd react-todo-list
 npm install
 npm run dev
 ```
