@@ -2,8 +2,6 @@
 
 This is a responsive and functional To-Do List application built using **React**. It allows users to add, edit, and delete tasks, with all data persisted in the browser using `localStorage`. The project demonstrates effective use of component-based design, React hooks, and basic state management to deliver a clean and interactive user experience.
 
----
-
 ## Features
 
 - Add new tasks
@@ -12,8 +10,6 @@ This is a responsive and functional To-Do List application built using **React**
 - Input field resets after adding a task
 - Data persistence using `localStorage`
 
----
-
 ## Tech Stack
 
 - **React** – Front-end library for building user interfaces
@@ -21,8 +17,6 @@ This is a responsive and functional To-Do List application built using **React**
 - **HTML5 & CSS3** – Markup and styling
 - **Vite** – Development server and build tool
 - **LocalStorage API** – Browser-based storage for persisting data
-
----
 
 ## Getting Started
 
